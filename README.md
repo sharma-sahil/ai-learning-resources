@@ -2,6 +2,9 @@
 1. [AI](#ai-learning-resources)
 2. GoLang
 3. MCP
+4. DropWizard
+5. Data Dog
+6. CouchBase
 
 ## ai-learning-resources
 
